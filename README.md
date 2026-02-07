@@ -33,7 +33,15 @@ oan-emi-calculator/
 ├── script.js # EMI calculation logic
 └── README.md # Project documentation
 
+## 📸 Preview
+<img width="688" height="634" alt="image" src="https://github.com/user-attachments/assets/2288fcd6-5e9a-4995-9e49-3af232b00d20" />
+
+
+
+## 🌐 Live Demo
+
 📌 How It Works
+    visit: https://tusharkumar2114.github.io/loan-emi-calculator/
 
 1. Select loan amount, interest rate, and tenure
 2. EMI is calculated using the standard formula:
@@ -48,7 +56,7 @@ EMI = [P × r × (1+r)^n] / [(1+r)^n – 1]
 
 ## 🙌 Author
 
-**Tushar**
+**tusharkumar2114**
 
 ---
 
